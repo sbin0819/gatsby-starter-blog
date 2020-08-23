@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://subi.dev`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/sbin0819`, // Your GitHub account
+    github: `sbin0819`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'subi',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
